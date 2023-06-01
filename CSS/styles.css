@@ -6,6 +6,17 @@ body {
     color: rgb(6, 6, 92);
 }
 
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+.container h2 {
+    width: 20%;
+    align-self: center;
+    margin: 2rem;
+}
+
 
 button {
     color: rgb(195, 235, 255);
