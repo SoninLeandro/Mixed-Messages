@@ -16,3 +16,6 @@ function mixedMessages () {
     document.getElementById("message").value = randomMessage;
 }
 
+function reset () {
+    document.getElementById("message").value = "";
+}
