@@ -16,4 +16,4 @@ function mixedMessages () {
     return randomMessage;
 }
 
-console.log(mixedMessages())
+//console.log(mixedMessages())
